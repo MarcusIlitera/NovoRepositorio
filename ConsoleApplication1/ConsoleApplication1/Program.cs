@@ -14,7 +14,7 @@ namespace ConsoleApplication1
             int b = 5;
             int soma = a + b;
             Console.Write(a + " + " + b + " = " + soma);
-            tsstsfsdfdsgasfa
+            int c = 4;
             Console.Read();
         }
     }
