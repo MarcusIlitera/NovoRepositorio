@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             int soma = a + b;
             Console.Write(a + " + " + b + " = " + soma);
             int c = 4;
+            int d = 5;
             Console.Read();
         }
     }
